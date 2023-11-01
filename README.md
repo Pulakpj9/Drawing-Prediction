@@ -1,1 +1,1 @@
-# Drawing-Prediction
+# SketchSense: Drawing-Prediction App
